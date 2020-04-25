@@ -39,9 +39,9 @@
 
 
 /* Form section design */
-.signup{
-    /* border: 2px solid white; */
-}
+/* .signup{
+    border: 2px solid white;
+} */
 
 input {
     width: 290px;
@@ -64,9 +64,9 @@ input {
     font-size: 3.0rem;
 }
 
-.center{
+/* .center{
 
-}
+} */
 
 .btn{
     margin-top: 12px;
